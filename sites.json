@@ -248,4 +248,11 @@
 {"key":"csp_appys_iptv_双子星","name":"双子星(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_双子星"},
 {"key":"csp_appys_iptv_若惜影视","name":"若惜影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_若惜影视"},
 {"key":"csp_appys_iptv_小极TV","name":"小极TV(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_小极TV"},
-{"key":"csp_appys_iptv_云播影视","name":"云播影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_云播影视"}]
+{"key":"csp_appys_iptv_云播影视","name":"云播影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_云播影视"},
+{"key":"玺心影视","name":"玺心影视","type":0,"api":"https://tvcj.arbd.cn/api.php/provide/vod/at/xml/","playUrl":"https://tv.arbd.cn/player/?url=","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"爱奇艺","name":"爱奇艺(三零资源)","type":0,"api":"http://api.000zy.com/provide/vod/from/qiyi/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"腾讯视频","name":"腾讯视频（三零资源)","type":0,"api":"http://api.000zy.com/provide/vod/from/qq/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"芒果TV","name":"芒果TV(三零资源)","type":0,"api":"http://api.000zy.com/provide/vod/from/mgtv/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"搜狐视频","name":"搜狐视频(三零资源)","type":0,"api":"http://api.000zy.com/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"优酷视频","name":"优酷视频(三零资源)","type":0,"api":"http://api.000zy.com/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":0}
+]
