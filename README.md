@@ -9,5 +9,5 @@ catvod 资源整理（纯个人爱好），本资源基础数据来源于网络�
 普通用户使用：
 https://peking2008.github.io/catvod.github.io/index.html
 
-含海外直播源，文件较大供发发烧友使用：
+含海外直播源：
 https://peking2008.github.io/catvod.github.io/index2.html
