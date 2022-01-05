@@ -10,4 +10,6 @@ catvod 资源整理（纯个人爱好），本资源基础数据来源于网络�
 https://peking2008.github.io/catvod.github.io/index.html
 
 含海外直播源：
+http://gg.gg/123366
+
 https://peking2008.github.io/catvod.github.io/index2.html
